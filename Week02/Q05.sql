@@ -1,0 +1,3 @@
+ALTER TABLE title
+ADD CONSTRAINT title_un
+UNIQUE (title);
