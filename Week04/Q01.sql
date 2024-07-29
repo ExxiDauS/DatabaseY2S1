@@ -1,0 +1,1 @@
+SELECT CONCAT(email, ' ', phone_number) AS Contact FROM employees;

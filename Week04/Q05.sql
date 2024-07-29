@@ -1,0 +1,1 @@
+SELECT *, (max_salary - min_salary) / 1.25 AS `index of salary` FROM jobs;
