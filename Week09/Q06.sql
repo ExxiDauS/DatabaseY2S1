@@ -5,4 +5,4 @@ where salary < (
   from employees
   where department_id = 60
 )
-order by department_id desc;
+order by department_id asc;
